@@ -12,7 +12,7 @@
   </a>
   <!-- <img src="https://img.shields.io/badge/happy-NLW 2.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="> -->
  <br>
-  <a href="https://www.linkedin.com/in/gabriel-souza-campos-a0b340158/">
+  <a href="https://www.linkedin.com/in/gabrielsouzacampos/">
        <img alt="LinkedIn link" src="https://img.shields.io/badge/-Gabriel Souza Campos-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" height="25px">
   </a> 
   <!-- <a href="https://insomnia.rest/run/?label=happy&amp;uri=https%3A%2F%2Fraw.githubusercontent.com%2GabrielSouzaCampos%2Fhappy%2Fmaster%2F.github%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a> -->
