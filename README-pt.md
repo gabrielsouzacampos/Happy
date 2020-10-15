@@ -99,9 +99,9 @@ Os seguintes softwares devem estar instalados:
   # Dependencies install.
   $ yarn # or npm install
   # Data base creation.
-  $ yarn knex:migrate # or npm run knex:migrate
+  $ yarn typeorm migration:run # or npm run typeorm migration:run
   # API start
-  $ yarn start # or npm start
+  $ yarn dev # or npm run dev
 ```
 
 - :computer: Web app
